@@ -4,9 +4,7 @@ implementation of graph visibility algorithms to visualize all the possible path
 
 to test their accuracy; visually and analytically.  next figures shows results of RPS on different environments
 
-[](destination_path.png)
-
-![](env_4.png)
+![](destination_path.png)
  
 ![](constellations.png)
 
